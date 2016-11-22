@@ -21,5 +21,5 @@ http://technoetics.in/simple-login-system-using-reactnativefirebase-nativestack/
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
+* Repo owner or admin  
 Feel free to report issues and send your own forks

@@ -22,11 +22,11 @@ import Account from './src/pages/Main';
 import styles from './src/styles/mainstyle.js'
 import * as firebase from 'firebase';  // Initialize Firebase
   var fireBaseconfig = {
-    apiKey: "AIzaSyB2-E6fydvyv7msUDo8_L_-6YIVr4qhJcQ",
-    authDomain: "todo-f8ac9.firebaseapp.com",
-    databaseURL: "https://todo-f8ac9.firebaseio.com",
-    storageBucket: "todo-f8ac9.appspot.com",
-    messagingSenderId: "835190050138"
+    apiKey: "Ypur apiKey",
+    authDomain: "your auth domain",
+    databaseURL: "your db url",
+    storageBucket: "your storageBucket",
+    messagingSenderId: "your id"
   };
   // firebase.initializeApp(fireBaseconfig);
 const firebaseApp = firebase.initializeApp(fireBaseconfig);
