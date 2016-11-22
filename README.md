@@ -4,15 +4,14 @@
 ### What is this repository for? ###
 
 * Quick summary
-A simple todo app with login integrated using reactnative,firebase and nativebasee
+A simple login integrated using reactnative,firebase and nativebasee
 * Version:1
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
 
 * Summary of set up
 For detailed explaination on how to use it head over to the following link:
-
+http://technoetics.in/simple-login-system-using-reactnativefirebase-nativestack/
 
 ### Contribution guidelines ###
 
