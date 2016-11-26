@@ -1,5 +1,3 @@
-
-
 'use strict';
 import {
   AppRegistry,
@@ -10,7 +8,7 @@ import {
 } from 'react-native';
 import { Header,Container,Title, Content, List, ListItem, InputGroup, Input, Icon, Text, Picker, Button } from 'native-base';
 import React, {Component} from 'react';
-import Signup from './Signup';
+ import Signup from './Signup';
 import Account from './Main'
 import styles from '../styles/mainstyle.js';
 

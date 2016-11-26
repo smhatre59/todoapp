@@ -4,14 +4,14 @@
 ### What is this repository for? ###
 
 * Quick summary
-A simple login integrated using reactnative,firebase and nativebasee
+A simple todo app using reactnative,firebase and nativebasee
 * Version:1
 
 ### How do I get set up? ###
 
 * Summary of set up
 For detailed explaination on how to use it head over to the following link:
-http://technoetics.in/simple-login-system-using-reactnativefirebase-nativestack/
+http://technoetics.in/simple-todo-app-using-reactnativefirebase-nativebase
 
 ### Contribution guidelines ###
 

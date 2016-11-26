@@ -1,7 +1,7 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
+ * Sample React Native Login App
+ * Author:Saurabh Mhatre
+ *
  */
 
 import React, { Component } from 'react';
@@ -22,12 +22,8 @@ import Account from './src/pages/Main';
 import styles from './src/styles/mainstyle.js'
 import * as firebase from 'firebase';  // Initialize Firebase
   var fireBaseconfig = {
-    apiKey: "Ypur apiKey",
-    authDomain: "your auth domain",
-    databaseURL: "your db url",
-    storageBucket: "your storageBucket",
-    messagingSenderId: "your id"
-  };
+    //your credentials here
+    };
   // firebase.initializeApp(fireBaseconfig);
 const firebaseApp = firebase.initializeApp(fireBaseconfig);
 
