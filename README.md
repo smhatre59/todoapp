@@ -9,7 +9,8 @@ A simple todo app using reactnative,firebase and nativebasee
 
 ### How do I get set up? ###
 
-* Summary of set up
+* Summary of set up  
+
 For detailed explaination on how to use it head over to the following link:
 http://technoetics.in/simple-todo-app-using-reactnativefirebase-nativebase
 
