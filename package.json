@@ -9,10 +9,10 @@
   "dependencies": {
     "firebase": "^3.6.1",
     "native-base": "^0.5.15",
-    "react": "15.3.2",
-    "react-native": "0.37.0",
+    "react": "^16.0.0-alpha.6",
+    "react-native": "^0.43.0",
     "react-native-action-button": "^2.0.15",
-    "react-native-vector-icons": "^3.0.0"
+    "react-native-vector-icons": "^4.0.1"
   },
   "jest": {
     "preset": "jest-react-native"
